@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls12" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls13-spring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-ls9" vcs="Git" />
+  </component>
+</project>
